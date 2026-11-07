@@ -51,3 +51,22 @@ Este projeto foi desenvolvido para fins educacionais. Os percentuais e simulaç�
 
 ![Simulação com perfil Agressivo](evidencia/03-perfil-agressivo.jpg)
 
+
+Distribuição dos investimentos
+
+Os percentuais de distribuição entre os seis tipos de fundos imobiliários foram mantidos conforme o modelo apresentado pelo Expert Felipe Aguiar durante as aulas do projeto.
+
+Os perfis Conservador, Moderado e Agressivo seguem as mesmas proporções demonstradas no tutorial, utilizadas exclusivamente para fins educacionais.
+
+Melhorias e personalizações
+
+Em relação à ferramenta apresentada pelo Expert, foram realizadas as seguintes alterações:
+
+Gráfico de barras: inclusão de um gráfico para visualizar a evolução dos dividendos ao longo do tempo.
+Formatação condicional: alteração automática do estilo visual das células de perfil conforme a opção selecionada.
+Identidade visual: pequenos ajustes na paleta de cores e na apresentação da ferramenta.
+Simulação de aportes: possibilidade de projetar os investimentos utilizando o aporte informado pelo usuário ou o valor recomendado pelo sistema, calculado com base em 30% do salário.
+Mais cenários de projeção: ampliação das faixas de tempo para 2, 5, 10, 20, 25, 30, 40 e 50 anos.
+Origem dos percentuais
+
+Os percentuais utilizados na distribuição dos investimentos foram retirados do exemplo apresentado pelo Expert Felipe Aguiar nas aulas do desafio. Não foram criadas novas recomendações de alocação.
