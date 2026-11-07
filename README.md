@@ -15,7 +15,10 @@ Gráfico de colunas para visualizar a evolução dos dividendos.
 Distribuição dos aportes entre seis tipos de fundos imobiliários.
 Seleção de perfil de investidor por lista suspensa.
 Sugestão de aporte baseada no salário.
+Formatação condicional no campo de seleção de perfil, com alteração automática da cor conforme o perfil de investidor escolhido.
+
 Recursos do Excel utilizados
+Formatação condicional: alteração automática da cor do campo de perfil conforme a opção selecionada, facilitando a identificação visual do perfil de investidor.
 VF: cálculo do valor futuro dos investimentos.
 PROCV: busca dos percentuais de distribuição conforme o perfil de investidor.
 Validação de dados: criação de lista suspensa para seleção dos perfis.
@@ -23,6 +26,7 @@ Intervalos nomeados: utilização de nomes para facilitar a identificação das 
 Referências absolutas: manutenção das referências durante a projeção dos cenários.
 Gráficos: representação visual da evolução dos dividendos.
 Objetivo de aprendizagem
+
 
 Desenvolver uma ferramenta interativa no Excel, aplicando fórmulas financeiras, funções de busca, organização de dados e recursos de visualização para solucionar um problema de negócio.
 
