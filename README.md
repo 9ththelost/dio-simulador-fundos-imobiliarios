@@ -41,13 +41,13 @@ Este projeto foi desenvolvido para fins educacionais. Os percentuais e simulaç�
 
 ### Visão geral da ferramenta
 
-![Visão geral do simulador](evidencias/01-visao-geral.png)
+![Visão geral do simulador](evidencia/01-visao-geral.png)
 
 ### Simulação com perfil Conservador
 
-![Simulação com perfil Conservador](evidencias/02-perfil-conservador.jpg)
+![Simulação com perfil Conservador](evidencia/02-perfil-conservador.jpg)
 
 ### Simulação com perfil Agressivo
 
-![Simulação com perfil Agressivo](evidencias/03-perfil-agressivo.jpg)
+![Simulação com perfil Agressivo](evidencia/03-perfil-agressivo.jpg)
 
