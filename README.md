@@ -35,3 +35,19 @@ Microsoft Excel
 Observação
 
 Este projeto foi desenvolvido para fins educacionais. Os percentuais e simulações são exemplos e não representam recomendações de investimento.
+
+
+## Evidências do projeto
+
+### Visão geral da ferramenta
+
+![Visão geral do simulador](evidencias/01-visao-geral.png)
+
+### Simulação com perfil Conservador
+
+![Simulação com perfil Conservador](evidencias/02-perfil-conservador.jpg)
+
+### Simulação com perfil Agressivo
+
+![Simulação com perfil Agressivo](evidencias/03-perfil-agressivo.jpg)
+
